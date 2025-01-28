@@ -123,7 +123,7 @@
 - Calculus
 
 ## VFX
-- Shaders (Book of Shaders + Godotneers video)
+- Shaders (Book of Shaders + Godotneers' video on the topic)
 - Particles
 
 ## Misc
