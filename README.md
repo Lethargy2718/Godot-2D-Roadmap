@@ -13,6 +13,7 @@
 - [Step by Step Guide](https://docs.godotengine.org/en/stable/getting_started/step_by_step/index.html) - Godot Docs
 - [Your First 2D-Game](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html) - Godot Docs
 - [Best Practices](https://docs.godotengine.org/en/stable/tutorials/best_practices/index.html) - Godot Docs
+- [Version Control](https://youtu.be/tRZGeaHPoaw?feature=shared) - Kevin Stratvert YT
 
 ### Assignments:
 - Watch a couple of devlogs to have a subtle idea of how people build their games. You can also try to build a really simple game. Remember: YouTube, Discord, and the docs are your friends.
@@ -132,5 +133,6 @@
 - Exporting
 - Managing audio
 - Plugins
+- Noise and procedural generation
 
 ## Networking and Multiplayer
