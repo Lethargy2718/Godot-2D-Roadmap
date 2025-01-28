@@ -100,7 +100,7 @@
   - Importing assets
   - Component-based design
   - FSMs
-  - Apply your UI and physics knowledge.
+  - Apply your UI and physics knowledge
 
 ---
 
